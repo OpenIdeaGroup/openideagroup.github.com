@@ -43,4 +43,8 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F825ac093d4ba3a34921abd9566ea67b2' type='text/javascript'%3E%3C/script%3E"));
+</script>
 
